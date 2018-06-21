@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MapCanvas.qml</file>
+        <file>CanvasLayers.qml</file>
+        <file>CanvasPoints.qml</file>
+        <file>CanvasPolyLines.qml</file>
+        <file>CanvasRegions.qml</file>
+        <file>CanvasTexts.qml</file>
+    </qresource>
+</RCC>
